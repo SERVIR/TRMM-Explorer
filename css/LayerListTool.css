@@ -1,0 +1,19 @@
+
+
+
+/*remove the white background*/
+#layerListDialog_underlay
+{
+	display:none;
+}
+
+#layerListDialog
+{
+	width:260px;
+	
+}
+
+
+
+
+
